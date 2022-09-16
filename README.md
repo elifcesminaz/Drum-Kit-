@@ -1,1 +1,2 @@
 # Drum-Kit
+design.png
